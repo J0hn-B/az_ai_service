@@ -1,0 +1,13 @@
+------------  -------------------
+File:         basil.jpg
+Confidence:   36.94%
+Description:  a plant with leaves
+------------  -------------------------------  --------
+File:         code.jpg
+Confidence:   99.52%
+Description:  text
+------------  --------------------  -------------------------------------
+File:         parthenon.jpg
+Confidence:   29.50%
+Description:  Parthenon with columns and a blue sky
+------------  -------------------------------------
